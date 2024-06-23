@@ -126,3 +126,4 @@ kwargs = {
 }
 
 trainer.push_to_hub(**kwargs)
+#reference https://huggingface.co/blog/fine-tune-whisper
